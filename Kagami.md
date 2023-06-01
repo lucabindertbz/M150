@@ -23,32 +23,3 @@
 
 Introducing Kagami. Unleash the power of weather intelligence with unparalleled precision. Elevate your style with fashion-forward outfit recommendations that seamlessly adapt to any forecast. Effortlessly sync your wardrobe to weather conditions, creating a harmonious blend of fashion and functionality. Unleash your adventurous spirit as you plan outdoor activities confidently, armed with real-time insights and vital weather data. Step into a world of limitless possibilities and embrace the ultimate weather guidance experience with Kagami.
 
-## Weather (own page)
-### Introducing Kagami - Your Personal Weather Guide
-
-Never step out unprepared again. With Kagami's advanced weather functionality, you can make informed decisions about your daily attire and outdoor activities. This innovative smart mirror integrates real-time weather data, enabling you to effortlessly plan your day while looking your best.
-
-### Stay ahead of changing weather patterns
-Kagami utilizes cutting-edge technology to provide you with accurate weather updates, keeping you informed about current conditions and forecasted changes. Whether it's rain, snow, or sunshine, you'll be prepared for whatever the elements have in store.
-
-### Outfit recommendations tailored to the weather
-Say goodbye to mismatched outfits. Kagami suggests stylish and weather-appropriate attire based on the forecast. From layering options for chilly mornings to lightweight clothing for scorching afternoons, it ensures you're always dressed comfortably and fashionably.
-
-### Seamless integration with your wardrobe
-Kagami analyzes your existing wardrobe and matches it with weather conditions, effortlessly suggesting outfit combinations that are not only weather-appropriate but also reflect your unique style. It's like having a personal stylist right in your mirror.
-
-### Plan outdoor activities with confidence
-Whether you're an avid runner, a nature enthusiast, or simply enjoy spending time outdoors, Kagami's weather functionality helps you plan your activities accordingly. It provides crucial information like UV index, air quality, and precipitation, empowering you to make smart choices and stay safe.
-
-### Intuitive interface for effortless access
-Navigating the weather functionality on Kagami is a breeze. With a user-friendly interface, you can quickly check the temperature, view the forecast, and access additional weather-related insights. It's all conveniently displayed right on your mirror.
-
-### Experience the future of personal weather guidance
-Kagami seamlessly combines style, convenience, and up-to-date weather information to elevate your daily routine. Say goodbye to outdated weather apps and step into a world where your mirror empowers you to conquer any weather condition with confidence.
-
-Invest in Kagami today and embrace a new level of weather intelligence. Let the mirror be your guide as you conquer the day, rain or shine.
-
-Don't let the weather catch you off guard. Embrace the power of Kagami, your personal weather guide.
-
-
-Don't let the weather catch you off guard. Embrace the power of KagamiMirror, your personal weather guide.

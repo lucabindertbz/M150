@@ -30,3 +30,6 @@ Kagami is a sleek and stylish Smart Mirror designed to revolutionize your daily 
 - Calendar widget: Effortlessly manage your schedule.
 
 For more information and updates, visit our [website](https://www.example.com) and follow us on [Instagram](https://www.instagram.com/example).
+
+## Project owners
+Carl Otto Strömstedt and Luca Binder

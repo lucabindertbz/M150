@@ -1,4 +1,5 @@
 # Kagami (鏡) - Smart Mirror
+![](images/logos/kagami_logo_v2_transparency.png)
 ## Concept Description
 - website
 - instagram profile

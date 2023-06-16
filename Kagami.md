@@ -88,3 +88,38 @@ Stay informed with curated headlines, real-time updates, and customizable feeds,
 
  ## Clendar
  Effortlessly stay organized with integrated calendar features that display upcoming events, tasks, and to-do lists. Never miss an important meeting or deadline with visual reminders at your fingertips. The Smart Mirror synchronizes seamlessly with your preferred calendar app, ensuring your schedule is always up to date across all your devices. Customize your calendar display to match your style and preferences, with various layouts and color schemes available. Kagami, reflecting your productivity and keeping you in control of your schedule.
+
+ # Color Palette
+ ![](images/color_palette/color_palette.png)
+
+## Colors
+ #202026, #545459 , #B4BDBF , #F2F2F2 , #D9D9D9
+
+### 1. Midnight Mirage #202026
+This deep, sophisticated hue is the primary color for Kagami's brand identity. It is used for the logo, texts, and any element that needs to stand out. It embodies the sophistication and elegance of the Kagami Smart Mirror. Use it sparingly to maintain its impact.
+
+### 2. Grey Nickel #545459
+This rich grey is our secondary color, offering a sleek, modern, and versatile color to complement Midnight Mirage. Use it for secondary texts, icons, borders, and subtle accents.
+
+### 3. Metallic Silver #B4BDBF
+Metallic Silver serves as our accent color, used to highlight specific information and for interactive elements like buttons and links. This color reflects the premium materials used in Kagami, symbolizing its high-quality construction.
+
+### 4. Whisper White #F2F2F2
+Whisper White is used as a background color, creating a clean and uncluttered look that enhances the user interface's simplicity and readability. It provides an excellent contrast to our primary and secondary colors.
+
+### 5. Light Silver #D9D9D9
+Light Silver is the color for neutral backgrounds and elements that need to be visually differentiated from Whisper White. Use it for secondary backgrounds, form fields, and separators.
+
+## Color Application
+
+### Website
+The Kagami website should be primarily Whisper White (#F2F2F2) and Light Silver (#D9D9D9) for an open and airy feeling. Text should be mainly Midnight Mirage (#202026) for readability and Grey Nickel (#545459) for secondary information. Call to action buttons, links, or any interactive elements should be accented with Metallic Silver (#B4BDBF).
+
+### Instagram Profile
+Use the color palette consistently across all Instagram posts to create a cohesive brand image. Midnight Mirage (#202026) should be used for text overlays and other graphic elements. The Metallic Silver (#B4BDBF) can be used for accent elements, while Grey Nickel (#545459) can be used for secondary text and elements.
+
+### Voice AI Prototype
+The Voice AI Prototype should follow the same color scheme to ensure brand consistency. Whisper White (#F2F2F2) and Light Silver (#D9D9D9) should be the primary colors for the user interface background, with Midnight Mirage (#202026) used for important text and Grey Nickel (#545459) for secondary text. Use Metallic Silver (#B4BDBF) for buttons, user input fields, and other interactive elements.
+
+### Widgets (Plugins)
+For the Kagami widgets, the color scheme needs to follow the same color distribution. The background should be Whisper White (#F2F2F2) and Light Silver (#D9D9D9). Text, borders, and icon colors should be Midnight Mirage (#202026) and Grey Nickel (#545459). Metallic Silver (#B4BDBF) should be used for interactive elements such as buttons and toggles.

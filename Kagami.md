@@ -92,6 +92,7 @@ Stay informed with curated headlines, real-time updates, and customizable feeds,
  # Color Palette
  ![](images/color_palette/color_palette.png)
 
+# Styleguide
 ## Colors
  #202026, #545459 , #B4BDBF , #F2F2F2 , #D9D9D9
 
@@ -123,3 +124,20 @@ The Voice AI Prototype should follow the same color scheme to ensure brand consi
 
 ### Widgets (Plugins)
 For the Kagami widgets, the color scheme needs to follow the same color distribution. The background should be Whisper White (#F2F2F2) and Light Silver (#D9D9D9). Text, borders, and icon colors should be Midnight Mirage (#202026) and Grey Nickel (#545459). Metallic Silver (#B4BDBF) should be used for interactive elements such as buttons and toggles.
+
+
+# Instagram
+## Implementation
+### Instagram Web
+![Alt text](/M150/images/instagram_kagami_web.png)
+[instagram.com/kagami.smart](https://www.instagram.com/kagami.smart/)
+## Documentation: Instagram Profile Design
+As part of the expansive reach of Kagami Smart Mirror, an Instagram page has been diligently curated. Six distinct visuals, each one capturing different facets of our innovative product, have been meticulously designed and positioned on our page.
+
+The process of image creation was managed within the versatile digital landscape of Adobe Photoshop. We utilized a custom design template, crafted to maintain the consistency of our visual storytelling, ensuring each image synergistically complements the others, creating a harmonious layout.
+
+The visual narrative of the Instagram profile adheres strictly to our carefully selected color palette, staying true to the style guide. The visuals resonate with the colors - Midnight Mirage, Grey Nickel, Metallic Silver, Whisper White, and Light Silver, imbibing the aesthetic essence of Kagami Smart Mirror.
+
+The Instagram profile functions as a digital platform to spotlight the sophistication, functionality, and elegance of Kagami, enabling followers to immerse themselves in the experience that is our Smart Mirror. It's more than just an Instagram page; it's a window into the world of Kagami.
+
+![](images/color_insta.png)
